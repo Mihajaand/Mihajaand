@@ -1,7 +1,6 @@
 # 💫 Hi I'm Mihajamahefa Andy :
 🔭 I’m currently working on My Life<br>👯 I’m looking to collaborate on My Life<br>🤝 I’m looking for help with My Life<br>🌱 I’m currently learning about My Life<br>💬 Ask me about your life. <br>⚡ Fun fact, just kidding
 <!-- Snake Game Repo View -->
-<img src="#" alt="header">
 <img src="https://komarev.com/ghpvc/?username=tokyrt&color=blueviolet&style=flat-square"/>
 
 <div align="center">
